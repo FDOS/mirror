@@ -1,0 +1,9 @@
+LICENSE.TXT
+
+License:
+
+This program is licensed under the GNU GPL.
+
+For more information, please see the web page at:
+ http://www.fsf.org/copyleft/gpl.htm
+
